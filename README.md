@@ -115,10 +115,10 @@ Usage
 How to Run the Project
 
 1.Clone this repository:
-Usage
 
-git clone <repository-url>
+git clone <https://github.com/Ashamaro/Heart_Explolatory_Analysis/blob/main/Untitled.ipynb>
 2.Navigate to the project directory:
+  ```bash
 cd heart-disease-analysis
 
 3.Ensure the dataset is placed in the data/ folder or update the script with the dataset path.
